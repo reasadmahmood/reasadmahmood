@@ -1,6 +1,6 @@
 # Hi there, I'm Reasad Mahmood! 👋
 
-![Banner Image](https://i.imgur.com/xB1m8dQ.png) <!-- You can replace this with your custom banner -->
+![Banner Image](/carbon.png) <!-- You can replace this with your custom banner -->
 
 ## 🚀 About Me
 
