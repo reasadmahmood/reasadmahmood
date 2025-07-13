@@ -45,7 +45,7 @@ I'm a passionate **Technology Enthusiast** focused on **Infrastructure (Network,
 ## 💻 Featured Projects
 
 ### 🔐 [SIEM with Wazuh](https://github.com/your-repo-link)
-![Wazuh Setup](https://i.imgur.com/HTFJ2rh.png)
+![Wazuh Setup]
 A complete log monitoring and SIEM setup using **Wazuh**, integrated with **Proxmox** and **Ubuntu servers**, parsing syslogs and alerts.
 
 ### 🌐 [Proxmox Home Lab](https://github.com/your-repo-link)
