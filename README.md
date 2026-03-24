@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Technology Enthusiast** focused on **Infrastructure (Network, Systems, Virtualization, Cloud)**, **Cybersecurity**, and increasingly diving into the world of **AI**. I love solving problems, exploring hands-on labs, and building secure, scalable systems.  
+I'm a passionate **Technology Enthusiast** focused on **Infrastructure (Network, Systems, Virtualization, Cloud)**, **Cybersecurity**,**Automation** and increasingly diving into the world of **AI**. I love solving problems, exploring hands-on labs, and building secure, scalable systems.  
 
 - 🌱 Currently learning: **Purple Teaming, DevOps Tools, AI for Security**
 - 🔭 Working on: **Proxmox Home Lab, Cloud Projects (AWS/Azure), Wazuh SIEM Setup**
